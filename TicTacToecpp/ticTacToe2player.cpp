@@ -1,3 +1,6 @@
+//Program to implement tictactoe game for two players.
+//Author - Vedika Udgir
+
 #include <iostream>
 #include <stdbool.h>
 using namespace std;
